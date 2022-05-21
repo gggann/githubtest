@@ -12,3 +12,4 @@ git commit -m "名称"
 git remote rm origin
 git remote add origin https://github.com/gggann/githubtest.git
 git push origin main
+git push -u origin main
